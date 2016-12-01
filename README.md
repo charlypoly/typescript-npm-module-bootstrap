@@ -1,6 +1,8 @@
 # How to write a NPM module using TypeScript
 > Targeting Node.js (v6) and TypeScript
 
+*- see [related article on Medium](https://medium.com/french-make-beautiful/5-things-to-know-when-writing-a-typescript-npm-module-e9a334efd544)*
+
 
 Provide : 
 
